@@ -103,7 +103,7 @@ h1 + p{
 }
 
 #menu:hover{  
-    transform:  scale(1.2);
+    transform:  scale(1.1);
 }
 
 
@@ -134,7 +134,7 @@ h1 + p{
     }
     
     #main:hover{  
-        transform:  scale(1.2);
+        transform:  scale(1.1);
     }
     
 
@@ -165,7 +165,7 @@ h1 + p{
 }
 
 #right:hover{  
-    transform:  scale(1.2);
+    transform:  scale(1.1);
 }
 
 /* Styling the left*/
@@ -186,7 +186,7 @@ h1 + p{
 }
 
 #left:hover{  
-    transform:  scale(1.2);
+    transform:  scale(1.1);
 }
 
 /* Styling the footer*/
@@ -207,7 +207,7 @@ h1 + p{
 }
 
 #footer:hover{  
-    transform:  scale(1.2);
+    transform:  scale(1.1);
 }
 
 
@@ -222,17 +222,18 @@ h1 + p{
 
         display: grid;
         font-weight: 500;
-        padding: 15px;
-        margin: 10px;
-        align-items: center;
+        padding: 80px;
+        margin: 2%;
         justify-content: center;    
+        align-items: center;
     }
 
     #menu{
-        padding: 30px;
+        padding: 43px;
         position: relative;
-        left: 42px;
-        width: 25em;
+        left: 15%;
+        right: 15%;
+        width: 70%;
         height: 30em;
         line-height: 20px;
 
@@ -243,35 +244,39 @@ h1 + p{
     }
     
     #main{
-      
-        margin-top: 1%;
-        padding: 30px;
+        margin-top: 10%;
+        padding: 43px;
         position: relative;
-        left: 42px;
-        width: 25em;
+        left: 15%;
+        right: 15%;
+        width: 70%;
         height: 16em;
     }
 
     #left{
-        margin-top: 1%;
-        padding: 30px;
+        margin-top: 10%;
+        padding: 43px;
         position: relative;
-        left: 42px;
-        width: 30em;
+        left: 15%;
+        right: 15%;
+        width: 70%;
+        width: 90%;
         height: 18em;  
       }
 
     #footer{
-        margin-top: 1%;
-        padding: 30px;
+        margin-top: 10%;
+        padding: 43px;
         position: relative;
-        left: 42px;
-        width: 30em;
-        height: 30em;
+        left: 15%;
+        right: 15%;
+        width: 70%;
+        width: 90%;
+        height: 32em;
     } 
 
     #right{
-        margin-top: 1%;
+        margin-top: 10%;
         padding: 30px;
         position: relative;
         left: 42px;
