@@ -229,11 +229,11 @@ h1 + p{
     }
 
     #menu{
-        padding: 43px;
+        padding: 10px;
         position: relative;
         left: 15%;
         right: 15%;
-        width: 70%;
+        width: 86%;
         height: 30em;
         line-height: 20px;
 
@@ -245,43 +245,43 @@ h1 + p{
     
     #main{
         margin-top: 10%;
-        padding: 43px;
+        padding: 10px;
         position: relative;
         left: 15%;
         right: 15%;
-        width: 70%;
-        height: 16em;
+        width: 86%;
+        height: 20em;
     }
 
     #left{
         margin-top: 10%;
-        padding: 43px;
+        padding: 10px;
         position: relative;
         left: 15%;
         right: 15%;
         width: 70%;
-        width: 90%;
+        width: 86%;
         height: 18em;  
       }
 
     #footer{
         margin-top: 10%;
-        padding: 43px;
+        padding: 10px;
         position: relative;
         left: 15%;
         right: 15%;
         width: 70%;
         width: 90%;
-        height: 32em;
+        height: 29em;
     } 
 
     #right{
         margin-top: 10%;
-        padding: 30px;
+        padding: 10px;
         position: relative;
         left: 42px;
-        width: 30em;
-        height: 40em;
+        width: 29em;
+        height: 35em;
     }
 
     
