@@ -237,7 +237,7 @@ h1 + p{
         width: 86%;
         height: 30em;
         line-height: 20px;
-
+        margin-top: 10%;
     }
 
     #svg{
@@ -245,31 +245,35 @@ h1 + p{
     }
     
     #main{
-        padding: 10px;
+        margin-top: 10%;
+        padding: 20px;
         margin: 0 auto;
-        left: 2%;
         width: 70%;
+        left: 3%;
         height: 20em;
     }
 
     #left{
-        padding: 10px;
+        margin-top: 10%;
+        padding: 20px;
         margin: 0 auto;
         width: 80%;
         height: 18em;  
       }
 
     #footer{
-        padding: 30px;
+        margin-top: 5%;
+        padding: 20px;
         margin: 0 auto;
-        left: 2%;
         width: 90%;
+        left: 3%;
         height: 32em;
     } 
 
     #right{
-        left: 2%;
         margin: 0 auto;
+        margin-top: 10%;
+        left: 3%;
         width: 26em;
         height: 40em;
     }
