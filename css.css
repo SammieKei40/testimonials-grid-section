@@ -231,11 +231,16 @@ h1 + p{
         align-items: center;
     }
 
+    #header{
+        font-size: 15px;
+    }
+    
+
     #menu{
-        padding: 10px;
+        padding: 8px;
         margin: 0 auto;
         width: 86%;
-        height: 30em;
+        height: 32em;
         line-height: 20px;
         margin-top: 10%;
     }
@@ -263,7 +268,7 @@ h1 + p{
 
     #footer{
         margin-top: 5%;
-        padding: 20px;
+        padding: 10px;
         margin: 0 auto;
         width: 90%;
         left: 3%;
