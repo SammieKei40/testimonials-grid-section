@@ -213,6 +213,8 @@ h1 + p{
 
 @media (max-width:600px){
     .grid-container{
+        grid-template-columns: auto;
+        grid-template-rows: minmax(auto);
         grid-template-areas: 'header'
         'menu'
         'main'
@@ -220,18 +222,18 @@ h1 + p{
         'footer'
         'right';
 
+
         display: grid;
         font-weight: 500;
-        padding: 100px;
-        margin-left: 13%;
+        margin: 0 auto;
+        max-width: 960px;
         justify-content: center;    
         align-items: center;
     }
 
     #menu{
         padding: 10px;
-        position: relative;
-        left: 15%;
+        margin: 0 auto;
         width: 86%;
         height: 30em;
         line-height: 20px;
@@ -243,38 +245,31 @@ h1 + p{
     }
     
     #main{
-        margin-top: 10%;
         padding: 10px;
-        position: relative;
-        left: 25%;
+        margin: 0 auto;
+        left: 2%;
         width: 70%;
         height: 20em;
     }
 
     #left{
-        margin-top: 10%;
         padding: 10px;
-        position: relative;
-        left: 20%;
+        margin: 0 auto;
         width: 80%;
         height: 18em;  
       }
 
     #footer{
-        margin-top: 10%;
         padding: 30px;
-        position: relative;
-        left: 15%;
-        width: 70%;
+        margin: 0 auto;
+        left: 2%;
         width: 90%;
         height: 32em;
     } 
 
     #right{
-        margin-top: 10%;
-        
-        position: relative;
-        left: 42px;
+        left: 2%;
+        margin: 0 auto;
         width: 26em;
         height: 40em;
     }
