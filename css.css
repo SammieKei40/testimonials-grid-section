@@ -222,8 +222,8 @@ h1 + p{
 
         display: grid;
         font-weight: 500;
-        padding: 80px;
-        margin: 2%;
+        padding: 70px;
+        margin: 6%;
         justify-content: center;    
         align-items: center;
     }
@@ -250,7 +250,7 @@ h1 + p{
     }
     
     #main{
-        margin-top: 10%;
+        margin-top: 8%;
         padding: 5px;
         position: relative;
         left: 15%;
@@ -260,7 +260,7 @@ h1 + p{
     }
 
     #left{
-        margin-top: 10%;
+        margin-top: 8%;
         padding: 5px;
         position: relative;
         left: 15%;
@@ -271,23 +271,22 @@ h1 + p{
       }
 
     #footer{
-        margin-top: 10%;
+        margin-top: 8%;
         padding: 5px;
         position: relative;
         left: 15%;
         right: 15%;
-        width: 70%;
-        width: 90%;
+        width: 86%;
         height: 29em;
     } 
 
     #right{
-        margin-top: 10%;
-        padding: 5px;
+        margin-top: 8%;
+        padding: 3px;
         position: relative;
-        left: 42px;
-        width: 29em;
-        height: 35em;
+        left: 12%;
+        width:28em;
+        height: 30em;
     }
 
     
