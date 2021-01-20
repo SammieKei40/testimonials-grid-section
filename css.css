@@ -234,23 +234,22 @@ h1 + p{
 
     #menu{
         padding: 5px;
-        left: 15%;
-        right: 15%;
-        width: 86%;
+        right: -16%;
+        width: 89%;
         height: 30em;
         line-height: 20px;
 
     }
 
     #svg{
-        width: 100px;
+        width: 80px;
+        
     }
     
     #main{
         margin-top: 8%;
         padding: 5px;
-        left: 15%;
-        right: 15%;
+        right: -16%;
         width: 86%;
         height: 20em;
     }
@@ -258,8 +257,7 @@ h1 + p{
     #left{
         margin-top: 8%;
         padding: 5px;
-        left: 15%;
-        right: 15%;
+        right: -16%;
         width: 70%;
         width: 86%;
         height: 18em;  
@@ -269,7 +267,6 @@ h1 + p{
         margin-top: 8%;
         padding: 5px;
         left: 15%;
-        right: 15%;
         width: 86%;
         height: 29em;
     } 
@@ -277,8 +274,8 @@ h1 + p{
     #right{
         margin-top: 8%;
         padding: 5px;
-        left: 42px;
-        width:28em;
+        right: -16%;
+        width:86%;
         height: 40em;
     }
 
