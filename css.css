@@ -228,8 +228,14 @@ h1 + p{
         align-items: center;
     }
 
+    #header{
+    
+        font-size: 16px;
+     
+    }
+
     #menu{
-        padding: 10px;
+        padding: 5px;
         position: relative;
         left: 15%;
         right: 15%;
@@ -245,7 +251,7 @@ h1 + p{
     
     #main{
         margin-top: 10%;
-        padding: 10px;
+        padding: 5px;
         position: relative;
         left: 15%;
         right: 15%;
@@ -255,7 +261,7 @@ h1 + p{
 
     #left{
         margin-top: 10%;
-        padding: 10px;
+        padding: 5px;
         position: relative;
         left: 15%;
         right: 15%;
@@ -266,7 +272,7 @@ h1 + p{
 
     #footer{
         margin-top: 10%;
-        padding: 10px;
+        padding: 5px;
         position: relative;
         left: 15%;
         right: 15%;
@@ -277,7 +283,7 @@ h1 + p{
 
     #right{
         margin-top: 10%;
-        padding: 10px;
+        padding: 5px;
         position: relative;
         left: 42px;
         width: 29em;
