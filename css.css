@@ -47,7 +47,7 @@ body{
     margin-top: 5%;
     border-radius: 10px;
     border: 1px solid;
-    width: 35em;
+   width: 35em;
     height: 21em;
     grid-area: menu;
     position: relative;
@@ -220,23 +220,20 @@ h1 + p{
         'footer'
         'right';
 
-        display: grid;
         font-weight: 500;
-        padding: 70px;
+        padding: 15% 5%;
         margin: 6%;
         justify-content: center;    
         align-items: center;
     }
 
     #header{
-    
         font-size: 16px;
      
     }
 
     #menu{
         padding: 5px;
-        position: relative;
         left: 15%;
         right: 15%;
         width: 86%;
@@ -252,7 +249,6 @@ h1 + p{
     #main{
         margin-top: 8%;
         padding: 5px;
-        position: relative;
         left: 15%;
         right: 15%;
         width: 86%;
@@ -262,7 +258,6 @@ h1 + p{
     #left{
         margin-top: 8%;
         padding: 5px;
-        position: relative;
         left: 15%;
         right: 15%;
         width: 70%;
@@ -273,7 +268,6 @@ h1 + p{
     #footer{
         margin-top: 8%;
         padding: 5px;
-        position: relative;
         left: 15%;
         right: 15%;
         width: 86%;
@@ -282,11 +276,10 @@ h1 + p{
 
     #right{
         margin-top: 8%;
-        padding: 3px;
-        position: relative;
-        left: 12%;
+        padding: 5px;
+        left: 42px;
         width:28em;
-        height: 30em;
+        height: 33em;
     }
 
     
