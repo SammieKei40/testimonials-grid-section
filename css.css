@@ -235,7 +235,7 @@ h1 + p{
     #menu{
         padding: 5px;
         right: -16%;
-        width: 89%;
+        width: 26em;
         height: 30em;
         line-height: 20px;
 
@@ -250,7 +250,7 @@ h1 + p{
         margin-top: 8%;
         padding: 5px;
         right: -16%;
-        width: 86%;
+        width: 26em;
         height: 20em;
     }
 
@@ -259,7 +259,7 @@ h1 + p{
         padding: 5px;
         right: -16%;
         width: 70%;
-        width: 86%;
+        width: 26em;
         height: 18em;  
       }
 
@@ -267,7 +267,7 @@ h1 + p{
         margin-top: 8%;
         padding: 5px;
         left: 15%;
-        width: 86%;
+        width: 26em;
         height: 29em;
     } 
 
@@ -275,7 +275,7 @@ h1 + p{
         margin-top: 8%;
         padding: 5px;
         right: -16%;
-        width:86%;
+        width:26em;
         height: 40em;
     }
 
