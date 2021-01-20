@@ -222,13 +222,13 @@ h1 + p{
 
         font-weight: 500;
         padding: 15% 5%;
-        margin: 6%;
+        margin: 2%;
         justify-content: center;    
         align-items: center;
     }
 
     #header{
-        font-size: 16px;
+        font-size: 14px;
      
     }
 
@@ -279,7 +279,7 @@ h1 + p{
         padding: 5px;
         left: 42px;
         width:28em;
-        height: 33em;
+        height: 40em;
     }
 
     
